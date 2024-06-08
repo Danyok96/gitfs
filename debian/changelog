@@ -1,0 +1,29 @@
+gitfs (0.5.2-deb11) precise; urgency=low
+
+  * Update to python 3
+
+ -- Mihailov-Ovsyannikov Daniil <necron-x@mail.ru>  Sat, 08 Jun 2024 17:36:00 +0300
+
+gitfs (0.1.0-precise~ppa2) precise; urgency=low
+
+  * Initial release
+
+ -- Calin Don <calin@presslabs.com>  Mon, 13 Oct 2014 16:24:05 +0000
+
+gitfs (0.0.1~git2+da85818-precise~ppa1) precise; urgency=low
+
+  * Added python-all-dev as build dependency
+
+ -- Calin Don <calin@presslabs.com>  Thu, 09 Oct 2014 20:48:37 +0300
+
+gitfs (0.0.1~git2+da85818-1precise2) precise; urgency=low
+
+  * update gitfs to commit (da85818)
+
+ -- Calin Don <calin@presslabs.com>  Thu, 09 Oct 2014 14:57:57 +0000
+
+gitfs (0.0.1~git1+8e89468-1precise2) precise; urgency=low
+
+  * gitfs pre-release from git at commit (8e89468)
+
+ -- Presslabs <gitfs@gmail.com>  Thu, 09 Oct 2014 13:32:43 +0000
